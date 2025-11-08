@@ -1,4 +1,4 @@
-# Midterm Project - API FILE
+# Coffee and Sleep - API FILE
 
 Esha More\
 Instructor: Dr. Mager Elshakankiri
