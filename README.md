@@ -1,4 +1,4 @@
-# Midterm Project - README FILE
+# Coffee and Sleep
 
 Esha More\
 Instructor: Dr. Mager Elshakankiri
